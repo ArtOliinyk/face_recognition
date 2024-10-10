@@ -6,4 +6,5 @@ face-recognition-using-mobilenet.ipynb - файл для тренування з
 інші файли - збережені моделі<br>
 Використані датасети:<br>
 lfw - https://www.kaggle.com/datasets/stoicstatic/face-recognition-dataset<br>
-celebA - https://disk.yandex.ru/d/S8f03spLIA1wrw
+celebA - https://disk.yandex.ru/d/S8f03spLIA1wrw<br>
+stats.jpg - фото статистики для різних face alignment
