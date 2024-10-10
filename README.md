@@ -1,5 +1,5 @@
 # face_recogntion
-Project_dace_recognition (1).ipynb - файл для метрики identification rate
+Project_dace_recognition (1).ipynb - файл для метрики identification rate<br>
 face-extraction-from-lfw-dataset-using-haarcascade.ipynb - файл для face alignment, використано було mtcnn
 face-recognition-siamese-w-triplet-loss.ipynb - файл для реалізації contrastive learning (face recognition), де було використано різні переобробки - цілі зображення чи зменщені за допомогою face alignment
 face-recognition-using-mobilenet.ipynb - файл для тренування за допомгою CE, для тестування (не обов'язкове)
